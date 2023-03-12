@@ -9,4 +9,3 @@ pydantic
 scikit-learn
 pyyaml
 uvicorn
-logging
