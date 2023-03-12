@@ -1,13 +1,11 @@
 pandas
 fastapi
 requests
-gunicorn
 nltk
 numpy
 PorterStemmer
 requests
 pydantic
-CountVectorizer
 scikit-learn
 pyyaml
 uvicorn
